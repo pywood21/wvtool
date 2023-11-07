@@ -3,7 +3,7 @@
 
 
 
-Initial deposite was done in 2016 but removed from repository due to the loss of corresponding address.
+Initial deposite was in 2016 but removed from repository due to the loss of correspondings.
 
 The program was used to analyze in the following papers and some other unpublished works.
 
