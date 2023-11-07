@@ -1,5 +1,5 @@
 # wvtool
-#### R language tool for wood image analysis ver 2016
+#### R language tool for wood image analysis
 
 
 
