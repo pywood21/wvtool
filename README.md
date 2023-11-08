@@ -3,10 +3,14 @@
 
 
 
-Initial deposite was in 2016 but removed from repository due to the loss of correspondings.
+Package ‘wvtool’ was removed from the CRAN repository.
+Formerly available versions can be obtained from the archive.
+Archived on 2022-04-05 as mail to the maintainer is undeliverable.
+A summary of the most recent check results can be obtained from the check results archive.
+Please use the canonical form https://CRAN.R-project.org/package=wvtool to link to this page.
+
 
 The program was used to analyze in the following papers and some other unpublished works.
-
 
 
 > Kayoko Kobayashi, Masanori Akada, Toshiyuki Torigoe, Setsuo Imazu, Junji Sugiyama. Automated recognition of wood used in traditional Japanese sculptures by texture analysis of their low-resolution computed tomography data. *J Wood Sci* **61**, 630–640 (2015). https://doi.org/10.1007/s10086-015-1507-6
